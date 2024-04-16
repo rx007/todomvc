@@ -4,6 +4,6 @@
     "lint": "cd .. && jscs"
   },
   "dependencies": {
-    "jscs": "^2.7.0"
+    "jscs": "^3.0.7"
   }
 }
